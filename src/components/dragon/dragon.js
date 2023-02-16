@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-one-expression-per-line */
 /* eslint-disable object-curly-newline */
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
@@ -36,7 +35,8 @@ const DragonPage = () => {
           <Col md={8}>
             <h3>{dragon.name}</h3>
             <p>
-              <Badge bg="primary">{dragon.reserved ? 'Reserved' : ''}</Badge>{' '}
+              <Badge bg="primary">{dragon.reserved ? 'Reserved' : ''}</Badge>
+              {' '}
               {dragon.type}
             </p>
             <Button
