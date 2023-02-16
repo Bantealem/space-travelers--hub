@@ -1,4 +1,4 @@
-/* eslint-disable object-curly-newline */
+/* eslint-disable */
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import { Badge, Button, Col, Container, Row } from 'react-bootstrap';
