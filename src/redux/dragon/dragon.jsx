@@ -1,4 +1,4 @@
-/* eslint linebreak-style: ["error", "windows"] */
+/* eslint linebreak-style: ["error", "unix"] */
 /* eslint-disable */
 // actions type
 import { createAsyncThunk } from '@reduxjs/toolkit';

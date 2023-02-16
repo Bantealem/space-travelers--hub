@@ -1,3 +1,4 @@
+/* eslint linebreak-style: ["error", "windows"] */
 import { configureStore } from '@reduxjs/toolkit';
 import logger from 'redux-logger';
 import dragonReducer from '../dragon/dragon';

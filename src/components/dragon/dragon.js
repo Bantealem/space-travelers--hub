@@ -1,3 +1,4 @@
+/* eslint linebreak-style: ["error", "unix"] */
 /* eslint-disable */
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
