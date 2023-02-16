@@ -21,6 +21,8 @@ This application will allow users to book rockets and join selected space missio
 
 ## Live Demo
 
+[Live Demo](https://space-6755a.web.app/)
+
 ## Getting Started with the Space Travelers' Hub web App
 
 ## Starts the development server
